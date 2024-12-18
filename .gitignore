@@ -1,0 +1,23 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos de cache
+__pycache__/
+*.pyc
+
+# Ignorar o diretório do ambiente virtual (se você estiver usando um)
+venv/
+.env/
+
+# Ignorar arquivos temporários do editor de código
+.vscode/
+.idea/
+
+# Ignorar o arquivo de configuração do pyenv
+.python-version
+
+# Ignorar logs de execução
+*.log
+
+# Ignorar arquivos de backup
+*~
